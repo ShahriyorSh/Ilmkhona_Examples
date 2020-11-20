@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String st = "Tah";
+        String st = "Tajikistan";
 //        String st2 = "Sony";
         StringBuilder s = new StringBuilder();
 
