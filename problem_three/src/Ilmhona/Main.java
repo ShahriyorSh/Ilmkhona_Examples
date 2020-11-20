@@ -1,4 +1,4 @@
-package olmhona;
+package Ilmhona;
 
 public class Main {
 
